@@ -3,4 +3,6 @@
     <string name="enter_your_name">Enter your name</string>
     <string name="change">Change</string>
     <string name="hello_world">Hello World!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
